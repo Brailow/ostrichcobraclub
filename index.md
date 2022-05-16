@@ -26,6 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+![Image]("https://www.thoughtco.com/thmb/kJTAi9LC-WWKzpeiJkXnDNT5OLk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1081539198-da2463161bca4538a0dd0028dbaedebc.jpg")
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
