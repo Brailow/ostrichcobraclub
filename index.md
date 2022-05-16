@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+![Image](https://res.cloudinary.com/dk-find-out/image/upload/q_70,c_pad,w_1200,h_630,f_auto/DCTM_Penguin_UK_DK_AL520967_o5r5lz.jpg)
 ![Image](https://www.thoughtco.com/thmb/kJTAi9LC-WWKzpeiJkXnDNT5OLk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1081539198-da2463161bca4538a0dd0028dbaedebc.jpg)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
